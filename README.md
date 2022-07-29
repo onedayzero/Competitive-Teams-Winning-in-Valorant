@@ -12,7 +12,9 @@ More information can be found on the PlayValorant.com [website](https://playvalo
 
 ## Data:
 
-The data originally came from a Kaggle search where I ended on this [page](https://www.kaggle.com/datasets/visualize25/valorant-pro-matches-full-data)). A CSV file of the data can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRgfbORLFSODzyC5OGp0BWGWJ8VD7Vcx9DkjxBdnSgzfjxJmqAXlk-iyb8e6io3dYkjUCWtZuteOIZY/pub?output=csv).
+The data originally came from a Kaggle search where I ended on this [page](https://www.kaggle.com/datasets/visualize25/valorant-pro-matches-full-data).
+
+A CSV file of the data can be downloaded directly [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRgfbORLFSODzyC5OGp0BWGWJ8VD7Vcx9DkjxBdnSgzfjxJmqAXlk-iyb8e6io3dYkjUCWtZuteOIZY/pub?output=csv).
 
 ## Author:
 Clint Atterberry
@@ -80,9 +82,10 @@ Above is a graph that shows the connection between how many of the pistol rounds
 Above is a graph that has 3 variables, pistol wins, rounds won during the first half, and on what map these statistics occured. The interesting statistic is not the variance on the map 'Fracture', that is a new map and is expected, but when a team does not win their pistol round (there is one per half so if they won 0 they lost the round in the first half) they still will usually win around 6 rounds out of 12. This value changes to 8 out of 12 rounds if they won the first round and preceeded to win the first round of the second half, so they would be 9 out of 13 rounds won.
 
 ### ![Type I and Type II Error Matrix](https://docs.google.com/drawings/d/e/2PACX-1vQC_RFtSCesXmJ2tKeOZG4Km1TTLgRR5FAkG5worxbhziHU3HJV6r8ga4DAbDmM9t2rrMjzy9A4mFQ6/pub?w=384&h=282)
-This matrix comes from the machine learning model that I believe is currently the best model to predict a team will win their match, based on the 5 features I stated in the overview of this project. The machine learning model used was K-Nearest Neighbor, k being optimized to equal to 22 after exploring k being equal to 1 through 50. There are a few amount of Type I and Type II errors, however, given that this topic is for a video game played as an eSport, the errors are not critical but can help greatly for gaining insights on success for a team.
-
+This matrix comes from the machine learning model that I believe is currently the best model to predict a team will win their match, based on the 5 features I stated in the overview of this project. The machine learning model used was K-Nearest Neighbor, k being optimized to equal to 22 after exploring k being equal to 1 through 50. There are a few amount of Type I and Type II errors, however, given that this topic is for a video game played as an eSport, the errors are not critical but can help greatly for gaining insights on success for a team. The errors both occur around 8% from the predictions.
 
 ## Summary
+From the KNN model of the feature engineered dataset, the team that gets to pick the map has a clear advantage. Regardless if they win the pistol rounds, they tend to win at least half of the matches in the first half of the game. This is no indication that the statistics change whether the team starts on attack or defend. When teams play, they generally play a Best of 3 which means they both get to pick a map and then the tournament organizer will randomly pick the third map. For championship level games, it moves to a Best of 5 which means they get 2 map selections each with a random 5th map. With the newer maps having the most variance, a team that learns the newer maps first could find more ways to get advantages if it is not their map they selected.
 
 ## Recommendations
+This project was completed after studying data science for 2 months. I believe with more experience I will be able to explore more models in a timely manner, select better visual representations and tune the models to a higher degree, eliminating even more errors. More models could have been explored with the PCA (feature engineered) data.
