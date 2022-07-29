@@ -71,8 +71,15 @@ This project was completed using Google Colab notebook. Data was cleaned, analyz
 ## Insights
 ### ![Map Distribution](https://docs.google.com/drawings/d/e/2PACX-1vRcI1mLr5gXf73vxudpurtan8YcsRvHkV6s-V9diZfXOrqI-e4XyASMfmtIVAqtPWfNEgi_T8iWrHwF/pub?w=391&h=262)
 
+Above is a graph that shows the distribution of maps in the dataset. The lowest maps are ones that are newer and were not available during part of the data collection. After exploration of the data, there is little to no variance outside of the newest one, which has the most variance but has the smallest sample size.
+
+### ![Pistol Wins vs Full Buy Wins](https://docs.google.com/drawings/d/e/2PACX-1vQ4MA-m39ryjvvml3lNF4XbsPHJ2L6knqV5Ls7mrLW07TsE3-DADWhPAJsI_uWnO1sicVzLiZzVTftD/pub?w=379&h=264)
+Aboe is a graph that shows the connection between how many of the pistol rounds team 1 wins (0, 1, or 2) and how many of the full buy rounds they win. The pistol The mean data is fairly similar; however, there is a lot more variance when team 1 does not when either pistol round. There is very little difference whether or not team 1 started on attack or defend.
 
 
+### ![Pistol Wins vs First Half Wins by Map](https://docs.google.com/drawings/d/e/2PACX-1vQ3oDb6shrJA2kB51jMcmPgp39Plb1SVBBrLicpg5dDcEltbIeT67RdTLR6Xoikxa7mh4jRCCb3w-Zi/pub?w=553&h=394)
+
+### ![Type I and Type II Error Matrix](https://docs.google.com/drawings/d/e/2PACX-1vQC_RFtSCesXmJ2tKeOZG4Km1TTLgRR5FAkG5worxbhziHU3HJV6r8ga4DAbDmM9t2rrMjzy9A4mFQ6/pub?w=384&h=282)
 
 ## Summary
 
