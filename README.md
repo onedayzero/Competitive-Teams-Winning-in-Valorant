@@ -15,10 +15,14 @@ onedayzero@gmail.com
 ## linkedin:
 [Link](https://www.linkedin.com/in/clintatterberry/)
 
+# Data Dictionary
 |||
 |-|-|
 
+# Overview of Project
 
-Why
+## Insights
 
-How
+## Summary
+
+# Recommendations
