@@ -16,8 +16,13 @@ onedayzero@gmail.com
 [Link](https://www.linkedin.com/in/clintatterberry/)
 
 # Data Dictionary
-|||
+|Variable Name|Description|
 |-|-|
+|||
+|||
+|||
+|||
+|||
 
 # Overview of Project
 
@@ -25,4 +30,4 @@ onedayzero@gmail.com
 
 ## Summary
 
-# Recommendations
+## Recommendations
