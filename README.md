@@ -1,5 +1,5 @@
 # Predicting Why a Pro Valorant eSports Team Wins
-This project used competitive Valorant data to determine if a team would win based on a selection of features like the map they are on, which side they are on, and if they win the pistol round. This dataset came from roughly 15,000 completed matches and is a mix of professional and amateur teams. The model produced could be used by organizations to evaluate their own performance or by the balance team that works on the game to evaluate strong and weak aspects to matches.
+This project used competitive Valorant data to determine if a team would win based on a selection of features like the map they are on, which side they are on, and if they win the pistol round. This dataset came from roughly 15,000 completed matches and is a mix of professional and amateur teams. The model produced could be used by organizations to evaluate their own performance or by the balance team that works on the game to evaluate strong and weak aspects of matches based on the features in the study.
 
 # ![Valorant Logo](https://docs.google.com/drawings/d/e/2PACX-1vToimVURVg6RLxixVNdCNNn5MFUikhiRf7SrACWlY1XuZzvcBiD5OjgfuZlJkEiIoBLOSL2-DhfwPmg/pub?w=584&h=150 "Valorant Logo")
 
