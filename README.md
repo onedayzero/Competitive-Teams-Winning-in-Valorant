@@ -12,7 +12,7 @@ Clint Atterberry
 ## email:
 onedayzero@gmail.com
 
-##linkedin:
+## linkedin:
 [Link](https://www.linkedin.com/in/clintatterberry/)
 
 |||
