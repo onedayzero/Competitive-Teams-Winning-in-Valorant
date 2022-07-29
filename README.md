@@ -12,7 +12,7 @@ More information can be found on the PlayValorant.com [website](https://playvalo
 
 ## Data:
 
-The data originally came from a Kaggle search where I ended on this [page]([https://playvalorant.com/en-us/news/game-updates/valorant-asset-kit/](https://www.kaggle.com/datasets/visualize25/valorant-pro-matches-full-data)). A CSV file of the data can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRgfbORLFSODzyC5OGp0BWGWJ8VD7Vcx9DkjxBdnSgzfjxJmqAXlk-iyb8e6io3dYkjUCWtZuteOIZY/pub?output=csv).
+The data originally came from a Kaggle search where I ended on this [page](https://www.kaggle.com/datasets/visualize25/valorant-pro-matches-full-data)). A CSV file of the data can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRgfbORLFSODzyC5OGp0BWGWJ8VD7Vcx9DkjxBdnSgzfjxJmqAXlk-iyb8e6io3dYkjUCWtZuteOIZY/pub?output=csv).
 
 ## Author:
 Clint Atterberry
