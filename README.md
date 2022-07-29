@@ -18,11 +18,49 @@ onedayzero@gmail.com
 # Data Dictionary
 |Variable Name|Description|
 |-|-|
-|||
-|||
-|||
-|||
-|||
+|GameID||
+|MatchID||
+|Map||
+|Team1ID||
+|Team2ID||
+|Team1||
+|Team2||
+|Winner||
+|Team1_TotalRounds||
+|Team2_TotalRounds||
+|Team1_SideFirstHalf||
+|Team2_SideFirstHalf||
+|Team1_RoundsFirstHalf||
+|Team1_RoundsSecondtHalf||
+|Team1_RoundsOT||
+|Team2_RoundsFirstHalf||
+|Team2_RoundsSecondtHalf||
+|Team2_RoundsOT||
+|Team1_PistolWon||
+|Team1_Eco||
+|Team1_EcoWon||
+|Team1_SemiEco||
+|Team1_SemiEcoWon||
+|Team1_SemiBuy||
+|Team1_SemiBuyWon||
+|Team1_FullBuy||
+|Team1_FullBuyWon||
+|Team2_PistolWon||
+|Team2_Eco||
+|Team2_EcoWon||
+|Team2_SemiEco||
+|Team2_SemiEcoWon||
+|Team2_SemiBuy||
+|Team2_SemiBuyWon||
+|Team2_FullBuy||
+|Team2_FullBuyWon||
+|Team1_Won||
+
+
+
+
+
+
 
 # Overview of Project
 
