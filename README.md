@@ -1,9 +1,14 @@
 # Predicting Why a Pro Valorant eSports Team Wins
+This project used competitive Valorant data to determine if a competitive team would win based on a selection of features. This dataset came from roughly 15,000 completed matches and a mix of professional and amateur teams.
 
-This project used competitive Valorant data to determine if a competitive team would win based on a selection of features. This dataset came from nearly 15,000 completed matches and a mix of professional and amateur teams.
+# ![Valorant Logo](https://docs.google.com/drawings/d/e/2PACX-1vToimVURVg6RLxixVNdCNNn5MFUikhiRf7SrACWlY1XuZzvcBiD5OjgfuZlJkEiIoBLOSL2-DhfwPmg/pub?w=584&h=150 "Valorant Logo")
+
+Image Source: [Valorant Asset Kit](https://playvalorant.com/en-us/news/game-updates/valorant-asset-kit/)
 
 ## About Valorant
-Valorant is a 5v5 character-based, tactical FPS shooter game developed by Riot Games and released in 2021. Teams take turns being on either attack or defend, spending 12 rounds on each. The first team to win 13 round is the winner. If both teams are at 12, then an overtime occurs with teams getting a set economy each round, they alternate sides after every round, and a team has to win by 2 rounds to win the match in overtime.
+Valorant is a Free-to-Play 5v5 character-based, tactical First-Person-Shooter game developed by Riot Games and released in 2021. Every player starts with a pistol and one ability to use every round, they need to purchase other weapons or abilities from money earned the prior round. Purchases carry over to the next round if the player does not die. Teams take turns being on either attack or defend, spending 12 rounds on each. The first team to win 13 round is the winner. If both teams are at 12, then an overtime occurs with teams getting a set economy each round, they alternate sides after every round, and a team has to win by 2 rounds to win the match in overtime.
+
+More information can be found on the PlayValorant.com [website](https://playvalorant.com/en-us/).
 
 ## Data:
 
@@ -20,7 +25,7 @@ onedayzero@gmail.com
 
 # Data Dictionary
 |Variable Name|Description|
-|-|-|
+|---|---|
 |GameID|Identifier Variable|
 |MatchID|Identifier Variable|
 |Map|The map that the match was played on|
@@ -60,8 +65,14 @@ onedayzero@gmail.com
 |Team1_Won|Did team 1 win the match|
 
 # Overview of Project
+This project was completed using Google Colab notebook. Data was cleaned, analyzed, prepared, then modeled using various machine learning methods. The data was first explored with minimal changes, only unnecessary columns were dropped. Later, feature engineering was done to limit the scope of the models to make predictions based off of much fewer features. The features kept were: Map, Team1_SideFirstHalf, Team1_RuondsFirstHalf, Team1_PistolWon, Team1_FullBuyWon, and Team1_Won.
+
 
 ## Insights
+### ![Map Distribution](https://docs.google.com/drawings/d/e/2PACX-1vRcI1mLr5gXf73vxudpurtan8YcsRvHkV6s-V9diZfXOrqI-e4XyASMfmtIVAqtPWfNEgi_T8iWrHwF/pub?w=391&h=262)
+
+
+
 
 ## Summary
 
