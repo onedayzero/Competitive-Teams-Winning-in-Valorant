@@ -13,51 +13,48 @@ Clint Atterberry
 onedayzero@gmail.com
 
 ## linkedin:
-[Link](https://www.linkedin.com/in/clintatterberry/)
+[Link to profile](https://www.linkedin.com/in/clintatterberry/)
 
 # Data Dictionary
 |Variable Name|Description|
 |-|-|
-|GameID||
-|MatchID||
-|Map||
-|Team1ID||
-|Team2ID||
-|Team1||
-|Team2||
-|Winner||
-|Team1_TotalRounds||
-|Team2_TotalRounds||
-|Team1_SideFirstHalf||
-|Team2_SideFirstHalf||
-|Team1_RoundsFirstHalf||
-|Team1_RoundsSecondtHalf||
-|Team1_RoundsOT||
-|Team2_RoundsFirstHalf||
-|Team2_RoundsSecondtHalf||
-|Team2_RoundsOT||
-|Team1_PistolWon||
-|Team1_Eco||
-|Team1_EcoWon||
-|Team1_SemiEco||
-|Team1_SemiEcoWon||
-|Team1_SemiBuy||
-|Team1_SemiBuyWon||
-|Team1_FullBuy||
-|Team1_FullBuyWon||
-|Team2_PistolWon||
-|Team2_Eco||
-|Team2_EcoWon||
-|Team2_SemiEco||
-|Team2_SemiEcoWon||
-|Team2_SemiBuy||
-|Team2_SemiBuyWon||
-|Team2_FullBuy||
-|Team2_FullBuyWon||
-|Team1_Won||
-
-
-
+|GameID|Identifier Variable|
+|MatchID|Identifier Variable|
+|Map|The map that the match was played on|
+|Team1ID|Identifier Variable/Unique to eam|
+|Team2ID|Identifier Variable/Unique to team|
+|Team1|The name of team 1, they have map selection|
+|Team2|The name of team 2, they have side selection (attack or defend)|
+|Winner|The team that won the match|
+|Team1_TotalRounds|How many rounds did team 1 win|
+|Team2_TotalRounds|How many rounds did team 2 win|
+|Team1_SideFirstHalf|Did team 1 attack or defend in the first half|
+|Team2_SideFirstHalf|Did team 1 attack or defend in the first half|
+|Team1_RoundsFirstHalf|How many rounds team 1 won in the first half|
+|Team1_RoundsSecondtHalf|How many rounds team 1 won in the second half|
+|Team1_RoundsOT|How many rounds team 1 won in overtime|
+|Team2_RoundsFirstHalf|How many rounds team 2 won in the first half|
+|Team2_RoundsSecondtHalf|How many rounds team 2 won in the second half|
+|Team2_RoundsOT|How many rounds team 2 won in overtime|
+|Team1_PistolWon|How many pistol rounds team 1 won|
+|Team1_Eco|How many rounds team 1 spent a small portion of their eco|
+|Team1_EcoWon|How many eco rounds team 1 won|
+|Team1_SemiEco|How many rounds team 1 spent a moderate portion of their eco|
+|Team1_SemiEcoWon|How many semieco rounds team 1 won|
+|Team1_SemiBuy|How many rounds team 1 spent a large portion of their eco|
+|Team1_SemiBuyWon|How many semibuy rounds team 1 won|
+|Team1_FullBuy|How many rounds team 1 spent enough for full loadouts|
+|Team1_FullBuyWon|How many fullbuy rounds team 1 won|
+|Team2_PistolWon|How many pistol rounds team 2 won|
+|Team2_Eco|How many rounds team 2 spent a small portion of their eco|
+|Team2_EcoWon|How many eco rounds team 2 won|
+|Team2_SemiEco|How many rounds team 2 spent a moderate portion of their eco|
+|Team2_SemiEcoWon|How many semieco rounds team 2 won|
+|Team2_SemiBuy|How many rounds team 2 spent a large portion of their eco|
+|Team2_SemiBuyWon|How many semibuy rounds team 2 won|
+|Team2_FullBuy|How many rounds team 2 spent enough for full loadouts|
+|Team2_FullBuyWon|How many fullbuy rounds team 2 won|
+|Team1_Won|Did team 1 win the match|
 
 
 
