@@ -6,7 +6,7 @@ This project used competitive Valorant data to determine if a competitive team w
 Image Source: [Valorant Asset Kit](https://playvalorant.com/en-us/news/game-updates/valorant-asset-kit/)
 
 ## About Valorant
-Valorant is a Free-to-Play 5v5 character-based, tactical First-Person-Shooter game developed by Riot Games and released in 2021. Every player starts with a pistol and one ability to use every round, they need to purchase other weapons or abilities from money earned the prior round. Purchases carry over to the next round if the player does not die. Teams take turns being on either attack or defend, spending 12 rounds on each. The first team to win 13 round is the winner. If both teams are at 12, then an overtime occurs with teams getting a set economy each round, they alternate sides after every round, and a team has to win by 2 rounds to win the match in overtime.
+Valorant is a Free-to-Play 5v5 character-based, tactical First-Person-Shooter game developed by Riot Games and released in 2021. Every player starts with a pistol and one ability to use every round, they need to purchase other weapons or abilities from money earned the prior round. Purchases carry over to the next round if the player does not die. Teams take turns being on either attack or defend, spending 12 rounds on each. The first team to win 13 rounds is the winner. If both teams are at 12, then an overtime occurs with teams getting a set economy each round, they alternate sides after every round, and a team has to win by 2 rounds to win the match in overtime.
 
 A [video](https://youtu.be/9omyVqrXhOg) that explains the basics of the game from ESPN posted 2 years ago on YouTube.
 
